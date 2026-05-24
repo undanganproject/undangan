@@ -1,0 +1,6 @@
+{
+  "name": "Undangan Pernikahan Blue Java",
+  "description": "Undangan digital premium adat Jawa dengan desain biru tua (navy) yang elegan, lengkap dengan RSVP, buku tamu ucapan, galeri foto, kisah cinta, dan musik gamelan latar belakang.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
